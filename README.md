@@ -1,4 +1,3 @@
-# tracking-semantic-degration
 # tracking-semantic-degradation
 This project aims to track the semantic degradation and sexualization of female gendered terms versus male control terms, specifically in Mandarin and English.
 
